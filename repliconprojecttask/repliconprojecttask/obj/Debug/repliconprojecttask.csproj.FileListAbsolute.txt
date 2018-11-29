@@ -1,0 +1,7 @@
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\obj\Debug\repliconprojecttask.csprojAssemblyReference.cache
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\obj\Debug\repliconprojecttask.csproj.CoreCompileInputs.cache
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\bin\Debug\repliconprojecttask.exe.config
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\bin\Debug\repliconprojecttask.exe
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\bin\Debug\repliconprojecttask.pdb
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\obj\Debug\repliconprojecttask.exe
+C:\Users\Shailu\source\repos\repliconprojecttask\repliconprojecttask\obj\Debug\repliconprojecttask.pdb
